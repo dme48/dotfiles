@@ -1,0 +1,11 @@
+#Init
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+set selection-clipboard clipboard
+set scroll-step 150
+
+#Mappings
+map p print
+map <Space> reload
+map w adjust_window width

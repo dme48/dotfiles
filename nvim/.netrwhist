@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/diego/.suckless/dwm'
+let g:netrw_dirhist_5='/home/diego/.oh-my-zsh/themes'
+let g:netrw_dirhist_4='/home/diego/Documents/Leioa/BBDD/2E/data'
+let g:netrw_dirhist_3='/home/diego/.suckless/dwm'
+let g:netrw_dirhist_2='/home/diego/.config/nvim'
+let g:netrw_dirhist_1='/home/diego/.config'
+let g:netrw_dirhist_0='/home/diego/.config/nvim/spell'
+let g:netrw_dirhist_9='/home/diego/.config/polybar'
+let g:netrw_dirhist_8='/home/diego/.config/bspwm'
+let g:netrw_dirhist_7='/home/diego/.config/zathura'
